@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
-        title: Text('Historial'),
+        title: Text('Historial de escaneos'),
         actions: [
           IconButton(
               icon: Icon(Icons.delete_forever),
